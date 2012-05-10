@@ -1,4 +1,5 @@
 var AsyncEvent = function() {
+
 ;
 
 AsyncEvent.prototype.constructor = AsyncEvent;
